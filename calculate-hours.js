@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name                Calculate Hours
+// @match               https://connectedhs.atlassian.net/jira/dashboards/*
 // @version             0.1
 // @description         Shows the total of hours in the footer
 // @copyright           2024, Oz Izhak

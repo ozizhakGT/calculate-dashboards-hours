@@ -9,7 +9,7 @@
 "use strict";
 
 const WORK_DAY = 8
-const COLUMNS = [undefined, undefined, undefined, undefined, undefined, "timeoriginalestimate", "timespent", "timeestimate", undefined, undefined, undefined, undefined]
+const COLUMNS = [undefined, undefined, undefined, undefined, undefined, "timeoriginalestimate", "timespent", "timeestimate", undefined, undefined, undefined, undefined, undefined]
 const UNIQE_ID = "totalRowOzey"
 
 const getDashboards = () => {
